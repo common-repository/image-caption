@@ -1,0 +1,22 @@
+img.center, div.center {
+	display: block;
+	margin-left: auto !important;
+	margin-right: auto !important; }
+
+img.alignright, div.alignright {
+	float: right;
+	margin: 0 0 2px 18px; }
+
+img.alignleft, div.alignleft {
+	float: left;
+	margin: 0 18px 2px 0; }
+
+div.img div {
+	font-size: 0.9em;
+	line-height: 1.6em;
+	text-align: center;
+	background-color: #fffde5;
+	border-top: 1px solid #f2f0d9;
+	border-bottom: 1px solid #e6e4cf;
+	padding: 6px;
+	margin-top: 5px; }
